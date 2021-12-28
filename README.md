@@ -10,3 +10,4 @@
 -git commit --amend
 # crear una rama
 -git checkout -b develop
+-git checkout master
