@@ -13,5 +13,6 @@
 9. git checkout  "nombre de la branch"
 # traer cambios de una branh a otra 
 10. git merge "nombre de la branch"
-# eliminar una branch
+# eliminar una branch 
 11. git branch -d "nombre de la branch"
+12. git push
