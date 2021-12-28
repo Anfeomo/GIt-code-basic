@@ -10,4 +10,7 @@
 -git commit --amend
 # crear una rama
 -git checkout -b develop
--git checkout master
+# cambiar entre branchs
+-git checkout  <nombre de la branch>
+# traer cambios de una branh a otra 
+- git merge <nombre de la branch>
