@@ -16,3 +16,4 @@
 # eliminar una branch 
 11. git branch -d "nombre de la branch"
 12. git push
+13. git commit -am
